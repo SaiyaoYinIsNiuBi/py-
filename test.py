@@ -307,7 +307,7 @@ onkeypress(press_d, "d")
 onkeyrelease(release_d, "d")
 move()
 q.onclick(wake_up)
-
+# mutingshan nilailema
 
     
 
