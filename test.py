@@ -308,7 +308,7 @@ onkeyrelease(release_d, "d")
 move()
 q.onclick(wake_up)
 # mutingshan nilailema
-# 你个沟是一赛要 我tm进去那死乌龟就睡觉 让我点他都不起
+# 你个沟是一赛要 我tm进去那死乌龟就睡觉 让我点他都不起然后程序就关了 你写啥呢
     
 
 
