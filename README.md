@@ -1,11 +1,11 @@
 *Python Turtle Simulator*
-A game where you be a little Python turtle
+A game where you be a little Python turtle  
 ***
 ***How to play:***
-Use WASD to move, complete levels and unlock different endings
+Use WASD to move, complete levels and unlock different endings  
 ***
-Libraries used:
-Turtle
-***Credits:***
-Mu Tingshan (Classmate)
-me (Saiyao Yin )
+Libraries used:  
+Turtle  
+***Credits:***  
+Mu Tingshan (Classmate)  
+me (Saiyao Yin )  
