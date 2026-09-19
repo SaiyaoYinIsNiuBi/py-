@@ -98,8 +98,8 @@ This is a personal Python project made while learning programming and experiment
 The project is still being developed, so new features and improvements may be added over time.
 
 ## 🙏 Credits
-Programmer: Saiyao Yin  
-Designer/Bug fixer: Tingshan Mu  
+Programmer: Saiyao Yin (SaiyaoYinIsNiuBi)  
+Designer/Bug fixer: Tingshan Mu (SYSLUXDY2561)  
 Graphics: Python Turtle  
 Language: Python  
 Development: Made as a personal programming project  
