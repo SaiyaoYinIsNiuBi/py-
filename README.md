@@ -97,6 +97,13 @@ This is a personal Python project made while learning programming and experiment
 
 The project is still being developed, so new features and improvements may be added over time.
 
+## 🙏 Credits
+Programmer: Saiyao Yin
+Graphics: Python Turtle
+Language: Python
+Development: Made as a personal programming project
+Learning: Built while learning Python and game development
+
 ## 📜 License
 
 This project is currently for learning and personal use.
