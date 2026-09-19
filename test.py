@@ -94,9 +94,7 @@ def wake_up(x, y):
     q.right(90)
     q.pendown()
     q.circle(40, 180)
-    q.forward(100)
     q.circle(40, 180)
-    q.forward(100)
     q.right(180)
     # food bowl
     q.penup()
