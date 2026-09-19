@@ -8,9 +8,9 @@ This project lets you experiment with Turtle graphics, movement, drawing, and si
 
 * 🐢 Control a Turtle
 * ⌨️ Keyboard movement
-* 🎨 Draw and interact with objects
+* 🎨 interact with objects
 * 🏠 Build and explore a Turtle environment
-* 🕹️ Simple simulator/game mechanics
+* 🕹️ Beat (hard or easy) levels and unlock (sometimes crazy) endings  
 * 📚 Made with beginner-friendly Python
 
 ## 🛠️ Built With
